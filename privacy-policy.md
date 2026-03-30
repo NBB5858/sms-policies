@@ -2,20 +2,19 @@
 
 **Effective date:** March 30, 2026
 
-This Privacy Policy explains how **[YOUR NAME OR APP NAME]** ("we", "our", or "us") handles information for the **Personal SMS Reminder Program**.
+This Privacy Policy explains how the account owner ("we", "our", or "us") handles information for the Reminder Service.
 
 This program is used to send reminder text messages to the account owner and does not offer public sign-up.
 
 ## Information We Collect
 
-- Phone number(s) used to send and receive reminder messages.
-- Message content needed to deliver your reminders.
+- The account owners Phone number used to send and receive reminder messages.
+- Message content needed to deliver reminders.
 - Delivery metadata and logs (for example, timestamp and delivery status).
 
 ## How We Use Information
 
 - Send scheduled reminder text messages.
-- Maintain, troubleshoot, and improve reliability of reminder delivery.
 - Comply with carrier and legal requirements for messaging.
 
 ## Sharing of Information
@@ -28,16 +27,8 @@ Text messaging originator opt-in data and consent information are not shared wit
 
 ## Data Retention
 
-We keep messaging data only as long as needed for operational, compliance, and recordkeeping purposes.
+We keep messaging data only as long as needed for operational, compliance, and recordkeeping purposes. The only data kept is the account owners own data
 
 ## Data Security
 
 We use reasonable administrative and technical measures to protect information, but no system is completely secure.
-
-## Your Choices
-
-You can stop messages at any time by replying `STOP`. You can request help by replying `HELP`.
-
-## Contact
-
-For questions about this policy, contact: **[YOUR EMAIL ADDRESS]**
